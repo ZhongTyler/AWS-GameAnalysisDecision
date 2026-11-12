@@ -37,3 +37,7 @@ flowchart LR
 <!-- module-panorama:end -->
 
 The [AWS overview](https://github.com/ZhongTyler/AgentWorkSpace) presents the full module network. This module retains original third-party notices and the reviewed 1.30.0 source record. Independent module versioning starts at 2.0.0.
+
+## Bounded independent investigations
+
+`node scripts/subagent-task.mjs --request <task.json>` prepares one bounded task from the existing professional selection. The optional Codex role is bundled with the module. See [host support and fallback](protocols/subagents.md). Actual invocation requires host discovery, supported execution tools and current authorization.

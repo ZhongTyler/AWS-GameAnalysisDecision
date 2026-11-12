@@ -56,3 +56,7 @@ node --test tests/test-provider-v2.mjs tests/test-learning-v2.mjs tests/test-ada
 ```
 
 示例是明确存在分析缺口时选择候选；结果是方法正文，不是已完成分析。来源列表不是已读材料，工具通过不是方法收益或真实体验通过。普通结论由宿主消费；正式决定、真实 Play 和新增授权由用户拥有。版权与原来源授权不因公开改变。
+
+## Bounded independent investigations
+
+`node scripts/subagent-task.mjs --request <task.json>` prepares one bounded task from the existing professional selection. The optional Codex role is bundled with the module. See [host support and fallback](protocols/subagents.md). Actual invocation requires host discovery, supported execution tools and current authorization.
